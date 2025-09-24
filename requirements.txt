@@ -1,0 +1,3 @@
+openai==1.108.1
+playwright==1.55.0
+python-dotenv==1.1.1

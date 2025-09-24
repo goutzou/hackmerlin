@@ -1,0 +1,29 @@
+# Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# virtualenvs
+.venv/
+env/
+venv/
+
+# git metadata
+.git
+.gitignore
+
+# OS / editor junk
+.DS_Store
+*.swp
+*.swo
+
+# local environment & secrets
+.env
+.env.local
+*.secret
+
+# Docker artifacts
+Dockerfile
+docker-compose.yml

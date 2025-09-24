@@ -1,0 +1,10 @@
+run_id,levels_passed_est,runtime_s,timed_out,log_path,timestamp
+1,0,0.81,False,logs/run_001.log,2025-09-23 15:58:34
+2,0,0.79,False,logs/run_002.log,2025-09-23 15:58:35
+3,0,0.65,False,logs/run_003.log,2025-09-23 15:58:36
+4,0,0.69,False,logs/run_004.log,2025-09-23 15:58:36
+5,0,0.67,False,logs/run_005.log,2025-09-23 15:58:37
+6,0,0.64,False,logs/run_006.log,2025-09-23 15:58:38
+7,0,0.65,False,logs/run_007.log,2025-09-23 15:58:38
+8,0,0.66,False,logs/run_008.log,2025-09-23 15:58:39
+9,0,0.64,False,logs/run_009.log,2025-09-23 15:58:40
